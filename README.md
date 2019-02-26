@@ -2,7 +2,9 @@
 
 ## How to use it
 
-[Please Look at the jekyll tutorial first.](https://jekyllrb.com/docs/)
+[Please look at the jekyll tutorial first.](https://jekyllrb.com/docs/)
+
+Be sure you repo name is: username.github.io.
 
 Simply clone/fork this repository.
 
