@@ -2,7 +2,15 @@
 
 ## How to use it
 
+[Please Look at the jekyll tutorial first.](https://jekyllrb.com/docs/)
+
 Simply clone/fork this repository.
+
+Install Ruby.
+
+Install Jekyll and bundler gems.
+
+Run `bundle install`.
 
 Run `bundle exec jekyll serve` inside the directory.
 
